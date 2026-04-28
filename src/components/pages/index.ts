@@ -1,0 +1,9 @@
+export { HomePage } from './HomePage';
+export { AskPage } from './AskPage';
+export { AIHubPage } from './AIHubPage';
+export { InsightsPage } from './InsightsPage';
+export { MarketPage } from './MarketPage';
+export { ProfilePage } from './ProfilePage';
+export { AdminPage } from './AdminPage';
+export { PointsPage } from './PointsPage';
+export { LoginPage } from './LoginPage';
